@@ -1,2 +1,1 @@
-# readme
-Nice readme widget by github
+https://github-readme-stats.vercel.app/api?username=dkurgan&theme=react&show_icons=true
